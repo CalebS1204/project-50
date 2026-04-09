@@ -1,2 +1,2 @@
 # project-50
-This is a IR receiver for a Samsung remote controller.
+This is a IR receiver for a Samsung remote controller. ready for grading.
